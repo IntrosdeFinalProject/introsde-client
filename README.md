@@ -29,7 +29,7 @@ Depending on the result there will be motivational message print for the user:
 - If the goal is reached there will be a link to the motivational picture from Instagram API;
 - If the goal is not reached there will be a motivational phrase printed in the console from Quoteondesign API. Though quotes about design are not connected to the health industry, this API is used here as an example of related quote service due to its free usage without any limitations.
 
-TO RUN THE APP
+##To run the app
 
      ant start 
 
